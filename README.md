@@ -1,0 +1,1 @@
+This is an application to practice my DOM manipulation skills. This project was started due to The Odin Project.
